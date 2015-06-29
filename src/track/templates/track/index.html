@@ -1,0 +1,9 @@
+{% if tablelist %}
+    <ul>
+    {% for table in tablelist %}
+        <li><a href="/data/{{ table }}/">{{ table }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No tables are available.</p>
+{% endif %}

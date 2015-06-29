@@ -1,0 +1,690 @@
+date,event,name_first,name_last,gender,age,time
+5/20/2014,Mile run,Troy,Allen,M,24,6:29
+5/20/2014,Mile run,Neil,Amato,M,44,5:48
+5/20/2014,Mile run,Bart,Bechard,M,50,5:33
+5/20/2014,Mile run,Roney,Brown,M,44,9:14
+5/20/2014,Mile run,Beatriz,Brown,F,41,9:16
+5/20/2014,Mile run,Parisa,Brown,F,13,8:46
+5/20/2014,Mile run,Ethan,Caldwell,M,41,5:34
+5/20/2014,Mile run,Mike,Carpenter,M,47,5:44
+5/20/2014,Mile run,John,Cheadle,M,26,6:01
+5/20/2014,Mile run,Jim,Clabuesch,M,50,5:28
+5/20/2014,Mile run,Tina,Clossick,F,43,6:40
+5/20/2014,Mile run,David,Courson,M,33,5:42
+5/20/2014,Mile run,Robert,Crabill,M,49,6:29
+5/20/2014,Mile run,Ed,Davis,M,70,7:52
+5/20/2014,Mile run,Ray,Dooley,M,62,7:07
+5/20/2014,Mile run,Andrew,Ehlert,M,25,5:06
+5/20/2014,Mile run,Jason,Figge,M,42,5:41
+5/20/2014,Mile run,Coen,Figge,M,7,11:53
+5/20/2014,Mile run,Anneka,Figge,F,5,12:42
+5/20/2014,Mile run,Douglas,Gimlin,M,50,6:36
+5/20/2014,Mile run,Tom,Griffin,M,69,9:15
+5/20/2014,Mile run,Louise,Guardino,F,74,9:02
+5/20/2014,Mile run,Erin,Gubitz,F,34,8:13
+5/20/2014,Mile run,William,Harris,M,39,7:51
+5/20/2014,Mile run,Bryan,Hassin,M,36,5:52
+5/20/2014,Mile run,Daniel,Hassler,M,47,6:31
+5/20/2014,Mile run,Jane,Hassler,F,15,6:54
+5/20/2014,Mile run,Erick,Hawkins,M,42,5:16
+5/20/2014,Mile run,Lewis,Hendricks,M,42,6:21
+5/20/2014,Mile run,John,Herlin,M,32,6:21
+5/20/2014,Mile run,Barbara,Hindenach,F,64,9:01
+5/20/2014,Mile run,Lena,Hollmann,F,64,7:33
+5/20/2014,Mile run,Tom,Kirby,M,62,7:16
+5/20/2014,Mile run,Daniel,Lane,M,25,4:57
+5/20/2014,Mile run,Jamie,Lewis,M,49,7:42
+5/20/2014,Mile run,Kevin,McCabe,M,34,7:48
+5/20/2014,Mile run,Jacob,McCauley,M,13,11:01
+5/20/2014,Mile run,Rob,McCauley,M,43,8:32
+5/20/2014,Mile run,Julie,Messina,F,37,8:48
+5/20/2014,Mile run,Bob,Nelson,M,53,8:19
+5/20/2014,Mile run,Joan,Nesbit-Mabe,F,53,5:41
+5/20/2014,Mile run,Tim,O'Brien,M,63,8:44
+5/20/2014,Mile run,Derek,Pamukoff,M,27,4:43
+5/20/2014,Mile run,Heiko,Rath,M,47,6:58
+5/20/2014,Mile run,Nat,Romaine,M,14,4:58
+5/20/2014,Mile run,Michael,Roth,M,44,10:18
+5/20/2014,Mile run,Larry,Rothman,M,55,8:30
+5/20/2014,Mile run,William,Schmitz,M,43,8:17
+5/20/2014,Mile run,Deb,Springer,F,41,7:29
+5/20/2014,Mile run,Roxanne,Springer,F,51,6:57
+5/20/2014,Mile run,Christine,Stachowicz,F,45,10:06
+5/20/2014,Mile run,Beth,Steffens,F,38,7:51
+5/20/2014,Mile run,Jackson,Steffens,M,9,7:55
+5/20/2014,Mile run,Tyle,Stelzig,M,26,4:49
+5/20/2014,Mile run,Jerry,Surh,M,76,8:47
+5/20/2014,Mile run,Adam,Sutter,M,19,4:56
+5/20/2014,Mile run,Mary,Szymkowski,F,51,7:16
+5/20/2014,Mile run,Grace,Tate,F,15,5:52
+5/20/2014,Mile run,Keith,Volmer,M,44,5:35
+5/20/2014,Mile run,Martin,Warters,M,36,6:16
+5/20/2014,Mile run,Lia,Weiner,F,26,5:55
+5/20/2014,Mile run,Heather,Werry,F,30,6:04
+5/20/2014,Mile run,Chris,Whitehurst,M,41,7:31
+5/20/2014,Mile run,Richard,Wolfe,M,76,15:53
+5/20/2014,Mile run,David,Yeowell,M,78,11:40
+5/20/2014,Mile run,Heather,Yeowell,F,75,11:06
+5/20/2014,200 m,Bart,Bechard,M,50,33.4
+5/20/2014,200 m,Roney,Brown,M,44,37
+5/20/2014,200 m,Beatriz,Brown,F,41,40
+5/20/2014,200 m,Parisa,Brown,F,13,34.9
+5/20/2014,200 m,Ary,Bush,M,35,28.3
+5/20/2014,200 m,Shannon,Bush,F,34,37.5
+5/20/2014,200 m,Ethan,Caldwell,M,41,32.2
+5/20/2014,200 m,Florin,Caligari,M,23,27.1
+5/20/2014,200 m,Mike,Carpenter,M,47,25.9
+5/20/2014,200 m,John,Cheadle,M,26,31.4
+5/20/2014,200 m,Tina,Clossick,F,43,33.7
+5/20/2014,200 m,Heather,Cooper,F,41,43.5
+5/20/2014,200 m,Esme,Courson,F,4,70
+5/20/2014,200 m,Robert,Crabill,M,49,31
+5/20/2014,200 m,Ray,Dooley,M,62,37.4
+5/20/2014,200 m,Andrew,Ehlert,M,25,27
+5/20/2014,200 m,Jason,Figge,M,42,30.7
+5/20/2014,200 m,Coen,Figge,M,7,48
+5/20/2014,200 m,Anneka,Figge,F,5,66.8
+5/20/2014,200 m,Tom,Griffin,M,69,45
+5/20/2014,200 m,Louise,Guardino,F,74,40.9
+5/20/2014,200 m,Erin,Gubitz,F,34,31.3
+5/20/2014,200 m,William,Harris,M,39,39.3
+5/20/2014,200 m,Bryan,Hassin,M,36,29.8
+5/20/2014,200 m,Jane,Hassler,F,15,38
+5/20/2014,200 m,Barbara,Hindenach,F,64,49.8
+5/20/2014,200 m,Lena,Hollmann,F,64,44.6
+5/20/2014,200 m,Colin,Jacobs,M,22,24.7
+5/20/2014,200 m,Tom,Kirby,M,62,37.3
+5/20/2014,200 m,Daniel,Lane,M,25,29.3
+5/20/2014,200 m,Jamie,Lewis,M,49,33.5
+5/20/2014,200 m,Kevin,McCabe,M,34,40
+5/20/2014,200 m,Jacob,McCauley,M,13,45
+5/20/2014,200 m,Rob,McCauley,M,43,42.4
+5/20/2014,200 m,Maurice,McDonald,M,74,43.5
+5/20/2014,200 m,Julie,Messina,F,37,47.7
+5/20/2014,200 m,Rayvon,Moore,M,22,25.9
+5/20/2014,200 m,Bob,Nelson,M,53,35
+5/20/2014,200 m,Sarah,Nelson,F,8,41.1
+5/20/2014,200 m,Rick,Pack,M,34,26
+5/20/2014,200 m,Heiko,Rath,M,47,40.1
+5/20/2014,200 m,William,Rhoad,M,73,33.5
+5/20/2014,200 m,Allison,Robertson,F,26,33.2
+5/20/2014,200 m,Nat,Romaine,M,14,29.2
+5/20/2014,200 m,Michael,Roth,M,44,32.7
+5/20/2014,200 m,Larry,Rothman,M,55,28.3
+5/20/2014,200 m,William,Schmitz,M,43,36.2
+5/20/2014,200 m,Becky,Simers,F,57,30.8
+5/20/2014,200 m,Tomas,Sosin,M,8,47
+5/20/2014,200 m,Deb,Springer,F,41,42.5
+5/20/2014,200 m,Roxanne,Springer,F,51,35.8
+5/20/2014,200 m,Christine,Stachowicz,F,45,55.2
+5/20/2014,200 m,Beth,Steffens,F,38,39.6
+5/20/2014,200 m,Jackson,Steffens,M,9,35
+5/20/2014,200 m,Tyle,Stelzig,M,26,30
+5/20/2014,200 m,Mary,Szymkowski,F,51,42.2
+5/20/2014,200 m,Sofia,VanHook,F,10,35.8
+5/20/2014,200 m,Keith,Volmer,M,44,30.6
+5/20/2014,200 m,Martin,Warters,M,36,32.1
+5/20/2014,200 m,Jane,Whitehurst,F,40,42
+5/20/2014,200 m,Chris,Whitehurst,M,41,35
+5/20/2014,200 m,Richard,Wolfe,M,76,95
+5/20/2014,200 m,David,Yeowell,M,78,49.7
+5/20/2014,200 m,Henry,,,,34.9
+5/20/2014,200 m,Watson,,,,34
+5/20/2014,200 m,Julian,,,,39.2
+5/20/2014,200 m,Bianca,,,,47.7
+5/20/2014,Mile walk,Roney,Brown,M,44,14:34
+5/20/2014,Mile walk,Beatriz,Brown,F,41,13:14
+5/20/2014,Mile walk,Parisa,Brown,F,13,13:04
+5/20/2014,Mile walk,Ethan,Caldwell,M,41,12:42
+5/20/2014,Mile walk,Tina,Clossick,F,43,12:56
+5/20/2014,Mile walk,Heather,Cooper,F,41,12:42
+5/20/2014,Mile walk,Ray,Dooley,M,62,9:49
+5/20/2014,Mile walk,Andrew,Ehlert,M,25,10:18
+5/20/2014,Mile walk,Jason,Figge,M,42,10:21
+5/20/2014,Mile walk,Tom,Griffin,M,69,12:00
+5/20/2014,Mile walk,William,Harris,M,39,13:54
+5/20/2014,Mile walk,Bryan,Hassin,M,36,15:12
+5/20/2014,Mile walk,Barbara,Hindenach,F,64,10:51
+5/20/2014,Mile walk,Lena,Hollmann,F,64,11:30
+5/20/2014,Mile walk,Jamie,Lewis,M,49,14:34
+5/20/2014,Mile walk,Kevin,McCabe,M,34,15:12
+5/20/2014,Mile walk,Julie,Messina,F,37,12:56
+5/20/2014,Mile walk,Tim,O'Brien,M,63,12:36
+5/20/2014,Mile walk,Heiko,Rath,M,47,11:32
+5/20/2014,Mile walk,Allison,Robertson,F,26,11:27
+5/20/2014,Mile walk,Nat,Romaine,M,14,11:40
+5/20/2014,Mile walk,Michael,Roth,M,44,9:58
+5/20/2014,Mile walk,Larry,Rothman,M,55,12:01
+5/20/2014,Mile walk,William,Schmitz,M,43,12:52
+5/20/2014,Mile walk,Deb,Springer,F,41,10:51
+5/20/2014,Mile walk,Roxanne,Springer,F,51,9:49
+5/20/2014,Mile walk,Christine,Stachowicz,F,45,12:47
+5/20/2014,Mile walk,Martin,Warters,M,36,12:52
+5/20/2014,Mile walk,Jane,Whitehurst,F,40,11:28
+5/20/2014,Mile walk,Chris,Whitehurst,M,41,13:53
+5/20/2014,Mile walk,Jess,Whitehurst,,,10:56
+5/20/2014,Mile walk,Henry,,,,15:06
+5/20/2014,800 m,Neil,Amato,M,44,2:35
+5/20/2014,800 m,Bart,Bechard,M,50,2:37
+5/20/2014,800 m,Roney,Brown,M,44,4:26
+5/20/2014,800 m,Beatriz,Brown,F,41,5:14
+5/20/2014,800 m,Parisa,Brown,F,13,4:01
+5/20/2014,800 m,Ary,Bush,M,35,2:42
+5/20/2014,800 m,Shannon,Bush,F,34,3:41
+5/20/2014,800 m,Ethan,Caldwell,M,41,2:41
+5/20/2014,800 m,Florin,Caligari,M,23,3:58
+5/20/2014,800 m,Mike,Carpenter,M,47,2:25
+5/20/2014,800 m,John,Cheadle,M,26,3:00
+5/20/2014,800 m,Jim,Clabuesch,M,50,2:38
+5/20/2014,800 m,Tina,Clossick,F,43,3:02
+5/20/2014,800 m,Heather,Cooper,F,41,4:01
+5/20/2014,800 m,Ed,Davis,M,70,3:37
+5/20/2014,800 m,Ray,Dooley,M,62,3:21
+5/20/2014,800 m,Andrew,Ehlert,M,25,2:25
+5/20/2014,800 m,Jason,Figge,M,42,2:41
+5/20/2014,800 m,Douglas,Gimlin,M,50,3:03
+5/20/2014,800 m,Tom,Griffin,M,69,4:12
+5/20/2014,800 m,Louise,Guardino,F,74,4:09
+5/20/2014,800 m,Erin,Gubitz,F,34,3:19
+5/20/2014,800 m,William,Harris,M,39,3:31
+5/20/2014,800 m,Bryan,Hassin,M,36,2:43
+5/20/2014,800 m,Daniel,Hassler,M,47,3:02
+5/20/2014,800 m,Jane,Hassler,F,15,3:19
+5/20/2014,800 m,Lewis,Hendricks,M,42,3:12
+5/20/2014,800 m,John,Herlin,M,32,2:43
+5/20/2014,800 m,Barbara,Hindenach,F,64,4:38
+5/20/2014,800 m,Lena,Hollmann,F,64,3:33
+5/20/2014,800 m,Scott,Houck,M,30,3:29
+5/20/2014,800 m,Colin,Jacobs,M,22,2:28
+5/20/2014,800 m,Tom,Kirby,M,62,3:17
+5/20/2014,800 m,Jamie,Lewis,M,49,2:24
+5/20/2014,800 m,Kevin,McCabe,M,34,3:07
+5/20/2014,800 m,Rob,McCauley,M,43,4:12
+5/20/2014,800 m,Maurice,McDonald,M,74,3:20
+5/20/2014,800 m,Julie,Messina,F,37,3:55
+5/20/2014,800 m,Bob,Nelson,M,53,3:30
+5/20/2014,800 m,Sarah,Nelson,F,8,4:15
+5/20/2014,800 m,Rick,Pack,M,34,2:41
+5/20/2014,800 m,Heiko,Rath,M,47,3:24
+5/20/2014,800 m,Allison,Robertson,F,26,3:09
+5/20/2014,800 m,Nat,Romaine,M,14,2:32
+5/20/2014,800 m,Michael,Roth,M,44,4:53
+5/20/2014,800 m,Larry,Rothman,M,55,4:08
+5/20/2014,800 m,William,Schmitz,M,43,3:34
+5/20/2014,800 m,Deb,Springer,F,41,3:26
+5/20/2014,800 m,Roxanne,Springer,F,51,3:11
+5/20/2014,800 m,Christine,Stachowicz,F,45,4:58
+5/20/2014,800 m,Beth,Steffens,F,38,3:23
+5/20/2014,800 m,Jackson,Steffens,M,9,3:22
+5/20/2014,800 m,Tyle,Stelzig,M,26,2:18
+5/20/2014,800 m,Jerry,Surh,M,76,4:04
+5/20/2014,800 m,Mary,Szymkowski,F,51,3:19
+5/20/2014,800 m,Martin,Warters,M,36,2:56
+5/20/2014,800 m,Lia,Weiner,F,26,3:03
+5/20/2014,800 m,Chris,Whitehurst,M,41,3:23
+5/20/2014,800 m,Bianca,,,,5:14
+5/20/2014,5K,Ary,Bush,M,35,22:18:00
+5/20/2014,5K,Ethan,Caldwell,M,41,21:40:00
+5/20/2014,5K,John,Cheadle,M,26,19:45:00
+5/20/2014,5K,Jim,Clabuesch,M,50,19:29:00
+5/20/2014,5K,Ed,Davis,M,70,27:06:00
+5/20/2014,5K,Ray,Dooley,M,62,25:44:00
+5/20/2014,5K,Andrew,Ehlert,M,25,20:43:00
+5/20/2014,5K,Jason,Figge,M,42,24:50:00
+5/20/2014,5K,William,Harris,M,39,31:10:00
+5/20/2014,5K,Bryan,Hassin,M,36,21:23:00
+5/20/2014,5K,Lewis,Hendricks,M,42,19:59:00
+5/20/2014,5K,Barbara,Hindenach,F,64,31:57:00
+5/20/2014,5K,Scott,Houck,M,30,19:27:00
+5/20/2014,5K,Tom,Kirby,M,62,26:06:00
+5/20/2014,5K,Kevin,McCabe,M,34,23:45:00
+5/20/2014,5K,Rob,McCauley,M,43,29:50:00
+5/20/2014,5K,Tim,O'Brien,M,63,25:07:00
+5/20/2014,5K,Allison,Robertson,F,26,25:25:00
+5/20/2014,5K,Nat,Romaine,M,14,17:43:00
+5/20/2014,5K,William,Schmitz,M,43,24:37:00
+5/20/2014,5K,Charlie,Sessoms,M,36,24:50:00
+5/20/2014,5K,Deb,Springer,F,41,29:24:00
+5/20/2014,5K,Jerry,Surh,M,76,30:06:00
+5/20/2014,5K,Mary,Szymkowski,F,51,29:00:00
+5/20/2014,5K,Martin,Warters,M,36,22:42:00
+5/20/2014,5K,Richard,Wolfe,M,76,51:34:00
+5/27/2015,1500 m run,Luke,Allen,M,25,4:25
+5/27/2015,1500 m run,Tom,Arnel,M,52,8:08
+5/27/2015,1500 m run,Owen,Astrachan,M,59,5:22
+5/27/2015,1500 m run,Kathleen,Baker,F,40,7:45
+5/27/2015,1500 m run,John,Barry,M,46,4:30
+5/27/2015,1500 m run,Max,Blackburn,M,17,4:24
+5/27/2015,1500 m run,Shannon,Bush,F,34,7:09
+5/27/2015,1500 m run,Ethan,Caldwell,M,41,5:08
+5/27/2015,1500 m run,Mike,Carpenter,M,47,5:23
+5/27/2015,1500 m run,Jim,Clabuesch,M,50,5:12
+5/27/2015,1500 m run,Laura,Cloak,F,28,6:19
+5/27/2015,1500 m run,Tina,Clossick,F,43,6:17
+5/27/2015,1500 m run,David,Couper,M,60,6:02
+5/27/2015,1500 m run,Ed,Davis,M,70,7:05
+5/27/2015,1500 m run,Andrew,Ehlert,M,25,4:45
+5/27/2015,1500 m run,Katie,Foley,F,20,7:43
+5/27/2015,1500 m run,Evan,Galloway,M,,5:02
+5/27/2015,1500 m run,Douglas,Gimlin,M,50,6:09
+5/27/2015,1500 m run,Tammy,Gooch,F,44,6:50
+5/27/2015,1500 m run,Liz,Gualteri-NealF,,46,6:30
+5/27/2015,1500 m run,Erin,Gubitz,F,34,7:33
+5/27/2015,1500 m run,William,Harris,M,39,7:19
+5/27/2015,1500 m run,Bryan,Hassin,M,36,5:23
+5/27/2015,1500 m run,Daniel,Hassler,M,47,5:50
+5/27/2015,1500 m run,Jane,Hassler,F,15,6:27
+5/27/2015,1500 m run,John,Herlin,M,32,5:29
+5/27/2015,1500 m run,Barbara,Hindenach,F,64,8:07
+5/27/2015,1500 m run,Tom,Hoerger,M,56,5:54
+5/27/2015,1500 m run,Lena,Hollmann,F,64,7:05
+5/27/2015,1500 m run,Kevin,Kidd,M,40,5:28
+5/27/2015,1500 m run,Tom,Kirby,M,62,6:45
+5/27/2015,1500 m run,Barbara,Kiran,F,45,7:56
+5/27/2015,1500 m run,Tom,Kreger,M,34,5:12
+5/27/2015,1500 m run,Kevin,McCabe,M,34,5:33
+5/27/2015,1500 m run,Julie,Messina,F,37,7:37
+5/27/2015,1500 m run,Bob,Nelson,M,53,7:26
+5/27/2015,1500 m run,Joan,Nesbit-Mabe,F,53,5:17
+5/27/2015,1500 m run,Tim,O'Brien,M,63,7:53
+5/27/2015,1500 m run,Leif,Rasmussen,M,12,6:27
+5/27/2015,1500 m run,Ian,Rasmussen,M,10,6:50
+5/27/2015,1500 m run,Silas,Rasmussen,M,7,7:16
+5/27/2015,1500 m run,Jesper,Rasmussen,M,41,8:42
+5/27/2015,1500 m run,Heiko,Rath,M,47,6:31
+5/27/2015,1500 m run,Michael,Roth,M,44,9:48
+5/27/2015,1500 m run,William,Schmitz,M,43,7:09
+5/27/2015,1500 m run,Deb,Springer,F,41,9:48
+5/27/2015,1500 m run,Roxanne,Springer,F,51,6:43
+5/27/2015,1500 m run,Jackson,Steffens,M,9,6:38
+5/27/2015,1500 m run,Tyle,Stelzig,M,26,4:25
+5/27/2015,1500 m run,Jerry,Surh,M,76,7:50
+5/27/2015,1500 m run,Martin,Warters,M,36,5:36
+5/27/2015,1500 m run,Dan,Woodlief,M,52,7:58
+5/27/2015,1500 m run,Elizabeth,Zacho,F,30,7:00
+5/27/2015,1500 m run,Katie,Barrett,F,,8:07
+5/27/2015,100 m,Tom,Arnel,M,52,21.4
+5/27/2015,100 m,Kathleen,Baker,F,40,17.4
+5/27/2015,100 m,Nathan,Bell,M,15,12.6
+5/27/2015,100 m,Ary,Bush,M,35,13.1
+5/27/2015,100 m,Shannon,Bush,F,34,18.5
+5/27/2015,100 m,Jason,Bush,M,5,25.1
+5/27/2015,100 m,Abigail,Bush,F,5,25
+5/27/2015,100 m,Ethan,Caldwell,M,41,14.8
+5/27/2015,100 m,Florin,Caligari,M,23,13.3
+5/27/2015,100 m,Mike,Carpenter,M,47,12.9
+5/27/2015,100 m,Eliya,Chung,F,5,27.9
+5/27/2015,100 m,David,Chung,M,35,15.3
+5/27/2015,100 m,Andrew,Ehlert,M,25,13.5
+5/27/2015,100 m,Katie,Foley,F,20,18.4
+5/27/2015,100 m,Evan,Galloway,M,,13.4
+5/27/2015,100 m,Louise,Guardino,F,74,19.2
+5/27/2015,100 m,William,Harris,M,39,17.4
+5/27/2015,100 m,Bryan,Hassin,M,36,13.7
+5/27/2015,100 m,Jane,Hassler,F,15,17.4
+5/27/2015,100 m,Barbara,Hindenach,F,64,24
+5/27/2015,100 m,Tom,Hoerger,M,56,17.7
+5/27/2015,100 m,Lena,Hollmann,F,64,21.7
+5/27/2015,100 m,Colin,Jacobs,M,22,12.5
+5/27/2015,100 m,Tom,Kirby,M,62,17.5
+5/27/2015,100 m,Damarious,Hayes,M,25,11.8
+5/27/2015,100 m,Kevin,McCabe,M,34,13.7
+5/27/2015,100 m,Julie,Messina,F,37,22.2
+5/27/2015,100 m,Rayvon,Moore,M,22,11.9
+5/27/2015,100 m,Bob,Nelson,M,53,18.2
+5/27/2015,100 m,Sarah,Nelson,F,8,19.8
+5/27/2015,100 m,Rick,Pack,M,34,12.4
+5/27/2015,100 m,Elodie,Page,F,7,21.6
+5/27/2015,100 m,Callum,Page,M,4,25.1
+5/27/2015,100 m,Leif,Rasmussen,M,12,15.4
+5/27/2015,100 m,Ian,Rasmussen,M,10,21.1
+5/27/2015,100 m,Silas,Rasmussen,M,7,19
+5/27/2015,100 m,Jesper,Rasmussen,M,41,16.9
+5/27/2015,100 m,Heiko,Rath,M,47,22.1
+5/27/2015,100 m,Megan,Rumley,F,28,13.6
+5/27/2015,100 m,William,Schmitz,M,43,15.2
+5/27/2015,100 m,Becky,Simers,F,57,14.3
+5/27/2015,100 m,Tomas,Sosin,M,8,20
+5/27/2015,100 m,Deb,Springer,F,41,24.3
+5/27/2015,100 m,Roxanne,Springer,F,51,17.1
+5/27/2015,100 m,Jackson,Steffens,M,9,17.2
+5/27/2015,100 m,Tyson,Steffens,M,41,15.6
+5/27/2015,100 m,Gage,Steffens,M,7,22
+5/27/2015,100 m,Tyle,Stelzig,M,26,14.4
+5/27/2015,100 m,Jerry,Surh,M,76,18.2
+5/27/2015,100 m,Martin,Warters,M,36,15.2
+5/27/2015,100 m,Dan,Woodlief,M,52,17.2
+5/27/2015,100 m,Elizabeth,Zacho,F,30,15.3
+5/27/2015,1500 m walk,Tom,Arnel,M,52,11:58
+5/27/2015,1500 m walk,Ethan,Caldwell,M,41,11:43
+5/27/2015,1500 m walk,Laura,Cloak,F,28,10:34
+5/27/2015,1500 m walk,Tina,Clossick,F,43,12:11
+5/27/2015,1500 m walk,Evan,Galloway,M,,8:56
+5/27/2015,1500 m walk,William,Harris,M,39,11:42
+5/27/2015,1500 m walk,Bryan,Hassin,M,36,12:57
+5/27/2015,1500 m walk,Barbara,Hindenach,F,64,10:09
+5/27/2015,1500 m walk,Tom,Hoerger,M,56,10:11
+5/27/2015,1500 m walk,Lena,Hollmann,F,64,11:01
+5/27/2015,1500 m walk,Kevin,McCabe,M,34,12:57
+5/27/2015,1500 m walk,Julie,Messina,F,37,12:11
+5/27/2015,1500 m walk,Tim,O'Brien,M,63,11:29
+5/27/2015,1500 m walk,Heiko,Rath,M,47,10:36
+5/27/2015,1500 m walk,Michael,Roth,M,44,9:01
+5/27/2015,1500 m walk,William,Schmitz,M,43,11:53
+5/27/2015,1500 m walk,Deb,Springer,F,41,9:23
+5/27/2015,1500 m walk,Roxanne,Springer,F,51,8:56
+5/27/2015,1500 m walk,Martin,Warters,M,36,11:54
+5/27/2015,1500 m walk,Elizabeth,Zacho,F,30,10:34
+5/27/2015,1500 m walk,Katie,Barrett,F,,12:57
+5/27/2015,400 m,Tom,Arnel,M,52,104.5
+5/27/2015,400 m,Owen,Astrachan,M,59,68.1
+5/27/2015,400 m,Kathleen,Baker,F,40,106
+5/27/2015,400 m,John,Barry,M,46,63
+5/27/2015,400 m,Nathan,Bell,M,15,58
+5/27/2015,400 m,Ary,Bush,M,35,58.5
+5/27/2015,400 m,Shannon,Bush,F,34,95
+5/27/2015,400 m,Ethan,Caldwell,M,41,74
+5/27/2015,400 m,Florin,Caligari,M,23,66
+5/27/2015,400 m,Mike,Carpenter,M,47,56.9
+5/27/2015,400 m,Tina,Clossick,F,43,78
+5/27/2015,400 m,Andrew,Ehlert,M,25,60.7
+5/27/2015,400 m,Louise,Guardino,F,74,116
+5/27/2015,400 m,Erin,Gubitz,F,34,73
+5/27/2015,400 m,William,Harris,M,39,87
+5/27/2015,400 m,Bryan,Hassin,M,36,67
+5/27/2015,400 m,Daniel,Hassler,M,47,70.2
+5/27/2015,400 m,Jane,Hassler,F,15,84
+5/27/2015,400 m,Barbara,Hindenach,F,64,122.6
+5/27/2015,400 m,Tom,Hoerger,M,56,83.8
+5/27/2015,400 m,Lena,Hollmann,F,64,95.6
+5/27/2015,400 m,Colin,Jacobs,M,22,54.1
+5/27/2015,400 m,Kevin,Kidd,M,40,67
+5/27/2015,400 m,Tom,Kirby,M,62,90.3
+5/27/2015,400 m,Damarious,Hayes,M,25,53.5
+5/27/2015,400 m,Kevin,McCabe,M,34,64
+5/27/2015,400 m,Julie,Messina,F,37,101
+5/27/2015,400 m,Bob,Nelson,M,53,81.2
+5/27/2015,400 m,Sarah,Nelson,F,8,119
+5/27/2015,400 m,Rick,Pack,M,34,56.2
+5/27/2015,400 m,Elodie,Page,F,7,115
+5/27/2015,400 m,Callum,Page,M,4,141
+5/27/2015,400 m,Leif,Rasmussen,M,12,76.4
+5/27/2015,400 m,Ian,Rasmussen,M,10,92.7
+5/27/2015,400 m,Silas,Rasmussen,M,7,96.5
+5/27/2015,400 m,Jesper,Rasmussen,M,41,98
+5/27/2015,400 m,Heiko,Rath,M,47,92
+5/27/2015,400 m,Michael,Roth,M,44,79
+5/27/2015,400 m,Megan,Rumley,F,28,82
+5/27/2015,400 m,William,Schmitz,M,43,86
+5/27/2015,400 m,Becky,Simers,F,57,79.1
+5/27/2015,400 m,Deb,Springer,F,41,100.7
+5/27/2015,400 m,Roxanne,Springer,F,51,81.6
+5/27/2015,400 m,Jackson,Steffens,M,9,90
+5/27/2015,400 m,Tyson,Steffens,M,41,85
+5/27/2015,400 m,Tyle,Stelzig,M,26,61.3
+5/27/2015,400 m,Jerry,Surh,M,76,97
+5/27/2015,400 m,Martin,Warters,M,36,75
+5/27/2015,400 m,Lia,Weiner,F,26,84
+5/27/2015,400 m,Dan,Woodlief,M,52,84
+5/27/2015,3K,Owen,Astrachan,M,59,13:21
+5/27/2015,3K,John,Barry,M,46,9:55
+5/27/2015,3K,Patrick,Bruer,M,56,12:17
+5/27/2015,3K,Ethan,Caldwell,M,41,11:54
+5/27/2015,3K,Jim,Clabuesch,M,50,11:23
+5/27/2015,3K,Laura,Cloak,F,28,13:24
+5/27/2015,3K,Tina,Clossick,F,43,14:29
+5/27/2015,3K,Rietta,Couper,F,56,13:28
+5/27/2015,3K,David,Couper,M,60,12:15
+5/27/2015,3K,Ed,Davis,M,70,15:14
+5/27/2015,3K,Andrew,Ehlert,M,25,11:45
+5/27/2015,3K,Katie,Foley,F,20,15:56
+5/27/2015,3K,Douglas,Gimlin,M,50,12:56
+5/27/2015,3K,William,Harris,M,39,17:35
+5/27/2015,3K,Bryan,Hassin,M,36,12:01
+5/27/2015,3K,John,Herlin,M,32,11:51
+5/27/2015,3K,Barbara,Hindenach,F,64,18:03
+5/27/2015,3K,Tom,Kirby,M,62,14:33
+5/27/2015,3K,Kevin,McCabe,M,34,13:08
+5/27/2015,3K,Julie,Messina,F,37,17:04
+5/27/2015,3K,Tim,O'Brien,M,63,14:41
+5/27/2015,3K,William,Schmitz,M,43,16:32
+5/27/2015,3K,Deb,Springer,F,41,18:36
+5/27/2015,3K,Roxanne,Springer,F,51,14:31
+5/27/2015,3K,Tyle,Stelzig,M,26,10:45
+5/27/2015,3K,Martin,Warters,M,36,13:26
+5/27/2015,3K,Dan,Woodlief,M,52,16:56
+6/3/2015,Mile run,Neil,Amato,M,44,5:42
+6/3/2015,Mile run,Tom,Arnel,M,52,8:34
+6/3/2015,Mile run,Kathleen,Baker,F,40,8:19
+6/3/2015,Mile run,John,Barry,M,46,4:53
+6/3/2015,Mile run,Bart,Bechard,M,50,5:22
+6/3/2015,Mile run,Roney,Brown,M,44,8:50
+6/3/2015,Mile run,Ary,Bush,M,35,6:11
+6/3/2015,Mile run,Shannon,Bush,F,34,7:28
+6/3/2015,Mile run,Ethan,Caldwell,M,41,5:37
+6/3/2015,Mile run,Mike,Carpenter,M,47,5:35
+6/3/2015,Mile run,John,Cheadle,M,26,5:38
+6/3/2015,Mile run,Jim,Clabuesch,M,50,5:29
+6/3/2015,Mile run,Tina,Clossick,F,43,6:33
+6/3/2015,Mile run,David,Couper,M,60,6:23
+6/3/2015,Mile run,Robert,Crabill,M,49,6:25
+6/3/2015,Mile run,Ed,Davis,M,70,7:46
+6/3/2015,Mile run,Andrew,Ehlert,M,25,5:08
+6/3/2015,Mile run,Jason,Figge,M,42,5:42
+6/3/2015,Mile run,Coen,Figge,M,7,10:21
+6/3/2015,Mile run,Douglas,Gimlin,M,50,6:52
+6/3/2015,Mile run,Erin,Gubitz,F,34,7:54
+6/3/2015,Mile run,William,Harris,M,39,8:01
+6/3/2015,Mile run,Bryan,Hassin,M,36,7:03
+6/3/2015,Mile run,Daniel,Hassler,M,47,6:35
+6/3/2015,Mile run,Jane,Hassler,F,15,6:36
+6/3/2015,Mile run,Erick,Hawkins,M,42,5:12
+6/3/2015,Mile run,Barbara,Hindenach,F,64,9:00
+6/3/2015,Mile run,Tom,Hoerger,M,56,6:14
+6/3/2015,Mile run,Tom,Kirby,M,62,7:07
+6/3/2015,Mile run,Daniel,Lane,M,25,4:59
+6/3/2015,Mile run,Damarious,Hayes,M,25,4:58
+6/3/2015,Mile run,Kevin,McCabe,M,34,6:00
+6/3/2015,Mile run,Rob,McCauley,M,43,8:17
+6/3/2015,Mile run,Julie,Messina,F,37,8:21
+6/3/2015,Mile run,Tim,O'Brien,M,63,7:25
+6/3/2015,Mile run,Leif,Rasmussen,M,12,5:56
+6/3/2015,Mile run,Ian,Rasmussen,M,10,7:03
+6/3/2015,Mile run,Silas,Rasmussen,M,7,8:02
+6/3/2015,Mile run,Jesper,Rasmussen,M,41,9:21
+6/3/2015,Mile run,Michael,Roth,M,44,9:58
+6/3/2015,Mile run,William,Schmitz,M,43,7:24
+6/3/2015,Mile run,Christine,Stachowicz,F,45,10:15
+6/3/2015,Mile run,Jackson,Steffens,M,9,7:13
+6/3/2015,Mile run,Tyle,Stelzig,M,26,4:49
+6/3/2015,Mile run,Mary,Szymkowski,F,51,7:16
+6/3/2015,Mile run,Martin,Warters,M,36,6:15
+6/3/2015,Mile run,Chris,Whitehurst,M,41,7:25
+6/3/2015,Mile run,Katie,Barrett,F,,8:54
+6/3/2015,Mile run,Jason,Kleitman,M,40,5:28
+6/3/2015,Mile run,Brandy,Burns,F,39,8:25
+6/3/2015,Mile run,Wyatt,Benjamin,M,10,6:32
+6/3/2015,Mile run,Rob,Benjamin,M,46,5:01
+6/3/2015,Mile run,Chris,Gould,M,71,7:29
+6/3/2015,Mile run,John M,Johnson,M,16,5:40
+6/3/2015,Mile run,Vance,Johnson,M,13,5:35
+6/3/2015,Mile run,Courtney,Tuszynski,F,36,7:44
+6/3/2015,Mile run,Wayne,Hadler,M,61,7:29
+6/3/2015,Mile run,Ryan,Laytham,M,33,5:09
+6/3/2015,Mile run,Reikan,Lin,M,25,5:18
+6/3/2015,Mile run,Aimee,Bazin,F,32,8:35
+6/3/2015,Mile run,Jim,Hotelling,M,68,8:10
+6/3/2015,Mile run,Jacob,Smith,M,9,10:10
+6/3/2015,Mile run,Daniel,Smith,M,7,10:50
+6/3/2015,Mile run,Richard,Smith,M,62,10:51
+6/3/2015,Mile run,John,Herlin,M,32,5:38
+6/3/2015,Mile run,Katherine,Baer,F,46,7:39
+6/3/2015,Mile run,Megan,Sullivan,F,39,6:42
+6/3/2015,Mile run,Doug,Hensel,M,42,6:17
+6/3/2015,200 m,Tom,Arnel,M,52,43.1
+6/3/2015,200 m,Kathleen,Baker,F,40,46
+6/3/2015,200 m,John,Barry,M,46,28.6
+6/3/2015,200 m,Ary,Bush,M,35,27.4
+6/3/2015,200 m,Shannon,Bush,F,34,39.4
+6/3/2015,200 m,Jason,Bush,M,5,58.2
+6/3/2015,200 m,Abigail,Bush,F,5,59.4
+6/3/2015,200 m,Ethan,Caldwell,M,41,34.3
+6/3/2015,200 m,Mike,Carpenter,M,47,24.7
+6/3/2015,200 m,John,Cheadle,M,26,32.3
+6/3/2015,200 m,Tina,Clossick,F,43,33.3
+6/3/2015,200 m,Esme,Courson,F,4,75
+6/3/2015,200 m,Andrew,Ehlert,M,25,28.1
+6/3/2015,200 m,Jason,Figge,M,42,28.5
+6/3/2015,200 m,Coen,Figge,M,7,46.9
+6/3/2015,200 m,Anneka,Figge,F,5,68
+6/3/2015,200 m,Louise,Guardino,F,74,42.2
+6/3/2015,200 m,Erin,Gubitz,F,34,31.1
+6/3/2015,200 m,William,Harris,M,39,42.3
+6/3/2015,200 m,Bryan,Hassin,M,36,28.5
+6/3/2015,200 m,Barbara,Hindenach,F,64,56.3
+6/3/2015,200 m,Tom,Hoerger,M,56,37.4
+6/3/2015,200 m,Colin,Jacobs,M,22,24.8
+6/3/2015,200 m,Tom,Kirby,M,62,37.3
+6/3/2015,200 m,Daniel,Lane,M,25,28.7
+6/3/2015,200 m,Damarious,Hayes,M,25,24
+6/3/2015,200 m,Kevin,McCabe,M,34,29
+6/3/2015,200 m,Rob,McCauley,M,43,42.2
+6/3/2015,200 m,Maurice,McDonald,M,74,39.7
+6/3/2015,200 m,Julie,Messina,F,37,44.7
+6/3/2015,200 m,Elodie,Page,F,7,47.2
+6/3/2015,200 m,Callum,Page,M,4,57
+6/3/2015,200 m,Leif,Rasmussen,M,12,31.5
+6/3/2015,200 m,Silas,Rasmussen,M,7,41.4
+6/3/2015,200 m,William,Rhoad,M,73,34.1
+6/3/2015,200 m,Michael,Roth,M,44,31.5
+6/3/2015,200 m,William,Schmitz,M,43,36
+6/3/2015,200 m,Christine,Stachowicz,F,45,57
+6/3/2015,200 m,Jackson,Steffens,M,9,35
+6/3/2015,200 m,Tyson,Steffens,M,41,33.6
+6/3/2015,200 m,Tyle,Stelzig,M,26,29.1
+6/3/2015,200 m,Mary,Szymkowski,F,51,43.1
+6/3/2015,200 m,Martin,Warters,M,36,32.5
+6/3/2015,200 m,Chris,Whitehurst,M,41,34.3
+6/3/2015,200 m,Richard,Wolfe,M,76,91
+6/3/2015,200 m,Katie,Barrett,F,,38.1
+6/3/2015,200 m,Jason,Kleitman,M,40,29.3
+6/3/2015,200 m,Brandy,Burns,F,39,46.6
+6/3/2015,200 m,Paul,Johnson,M,11,32.5
+6/3/2015,200 m,John D,Johnson,M,44,30.3
+6/3/2015,200 m,Hank,Tuszynski,M,10,32
+6/3/2015,200 m,Gerald,Mitchell,M,52,26.2
+6/3/2015,200 m,Eliza,Kleitman,F,7,47.2
+6/3/2015,200 m,Rye,Caldwell,F,4,77
+6/3/2015,200 m,Wayne,Hadler,M,61,37
+6/3/2015,200 m,Ryan,Laytham,M,33,30.4
+6/3/2015,200 m,Aimee,Bazin,F,32,41.3
+6/3/2015,200 m,Jacob,Smith,M,9,55
+6/3/2015,200 m,Daniel,Smith,M,7,65
+6/3/2015,200 m,Katherine,Baer,F,46,38.8
+6/3/2015,200 m,Doug,Hensel,M,42,37.2
+6/3/2015,Mile walk,Tom,Arnel,M,52,13:10
+6/3/2015,Mile walk,Ethan,Caldwell,M,41,12:09
+6/3/2015,Mile walk,John,Cheadle,M,26,14:13
+6/3/2015,Mile walk,Andrew,Ehlert,M,25,10:15
+6/3/2015,Mile walk,Jason,Figge,M,42,12:05
+6/3/2015,Mile walk,Coen,Figge,M,7,12:05
+6/3/2015,Mile walk,William,Harris,M,39,12:09
+6/3/2015,Mile walk,Bryan,Hassin,M,36,14:13
+6/3/2015,Mile walk,Barbara,Hindenach,F,64,11:01
+6/3/2015,Mile walk,Tom,Hoerger,M,56,10:16
+6/3/2015,Mile walk,Kevin,McCabe,M,34,14:13
+6/3/2015,Mile walk,Julie,Messina,F,37,13:46
+6/3/2015,Mile walk,Michael,Roth,M,44,9:38
+6/3/2015,Mile walk,William,Schmitz,M,43,11:35
+6/3/2015,Mile walk,Christine,Stachowicz,F,45,12:13
+6/3/2015,Mile walk,Mary,Szymkowski,F,51,13:24
+6/3/2015,Mile walk,Martin,Warters,M,36,13:46
+6/3/2015,Mile walk,Chris,Whitehurst,M,41,12:24
+6/3/2015,Mile walk,Richard,Wolfe,M,76,16:07
+6/3/2015,Mile walk,Brandy,Burns,F,39,11:35
+6/3/2015,Mile walk,Chris,Gould,M,71,11:36
+6/3/2015,Mile walk,Wayne,Hadler,M,61,13:53
+6/3/2015,Mile walk,Aimee,Bazin,F,32,13:24
+6/3/2015,Mile walk,John,Intintolo,M,52,13:10
+6/3/2015,800 m,Neil,Amato,M,44,2:33
+6/3/2015,800 m,Tom,Arnel,M,52,3:55
+6/3/2015,800 m,Kathleen,Baker,F,40,4:00
+6/3/2015,800 m,John,Barry,M,46,2:15
+6/3/2015,800 m,Roney,Brown,M,44,4:36
+6/3/2015,800 m,Ary,Bush,M,35,2:41
+6/3/2015,800 m,Shannon,Bush,F,34,3:27
+6/3/2015,800 m,Ethan,Caldwell,M,41,2:46
+6/3/2015,800 m,Mike,Carpenter,M,47,2:24
+6/3/2015,800 m,Jim,Clabuesch,M,50,2:58
+6/3/2015,800 m,Ed,Davis,M,70,3:37
+6/3/2015,800 m,Andrew,Ehlert,M,25,2:29
+6/3/2015,800 m,Erin,Gubitz,F,34,3:01
+6/3/2015,800 m,William,Harris,M,39,3:44
+6/3/2015,800 m,Bryan,Hassin,M,36,2:37
+6/3/2015,800 m,Daniel,Hassler,M,47,2:52
+6/3/2015,800 m,Jane,Hassler,F,15,3:08
+6/3/2015,800 m,Barbara,Hindenach,F,64,4:37
+6/3/2015,800 m,Tom,Hoerger,M,56,2:58
+6/3/2015,800 m,Colin,Jacobs,M,22,2:13
+6/3/2015,800 m,Tom,Kirby,M,62,3:19
+6/3/2015,800 m,Daniel,Lane,M,25,2:14
+6/3/2015,800 m,Damarious,Hayes,M,25,2:11
+6/3/2015,800 m,Kevin,McCabe,M,34,2:34
+6/3/2015,800 m,Rob,McCauley,M,43,3:55
+6/3/2015,800 m,Julie,Messina,F,37,3:50
+6/3/2015,800 m,Elodie,Page,F,7,4:03
+6/3/2015,800 m,Leif,Rasmussen,M,12,2:50
+6/3/2015,800 m,Ian,Rasmussen,M,10,3:30
+6/3/2015,800 m,Michael,Roth,M,44,4:42
+6/3/2015,800 m,William,Schmitz,M,43,3:31
+6/3/2015,800 m,Charlie,Sessoms,M,36,4:37
+6/3/2015,800 m,Christine,Stachowicz,F,45,4:43
+6/3/2015,800 m,Beth,Steffens,F,38,3:20
+6/3/2015,800 m,Jackson,Steffens,M,9,3:16
+6/3/2015,800 m,Tyle,Stelzig,M,26,2:15
+6/3/2015,800 m,Mary,Szymkowski,F,51,32.3
+6/3/2015,800 m,Martin,Warters,M,36,2:56
+6/3/2015,800 m,Chris,Whitehurst,M,41,3:12
+6/3/2015,800 m,Katie,Barrett,F,,3:53
+6/3/2015,800 m,Brandy,Burns,F,39,4:03
+6/3/2015,800 m,Chris,Gould,M,71,3:08
+6/3/2015,800 m,John M,Johnson,M,16,2:32
+6/3/2015,800 m,Vance,Johnson,M,13,2:33
+6/3/2015,800 m,Paul,Johnson,M,11,3:03
+6/3/2015,800 m,John D,Johnson,M,44,3:02
+6/3/2015,800 m,Hank,Tuszynski,M,10,2:57
+6/3/2015,800 m,Wayne,Hadler,M,61,3:29
+6/3/2015,800 m,Ryan,Laytham,M,33,2:24
+6/3/2015,800 m,Aimee,Bazin,F,32,4:02
+6/3/2015,800 m,Daniel,Smith,M,7,5:15
+6/3/2015,800 m,Richard,Smith,M,62,5:16
+6/3/2015,800 m,John,Herlin,M,32,2:39
+6/3/2015,800 m,Katherine,Baer,F,46,3:30
+6/3/2015,800 m,Ronnie,Weed,M,40,3:04
+6/3/2015,800 m,Doug,Hensel,M,42,2:56
+6/3/2015,5K,John,Barry,M,46,17:51
+6/3/2015,5K,Patrick,Bruer,M,56,20:58
+6/3/2015,5K,Ary,Bush,M,35,24:02:00
+6/3/2015,5K,Ethan,Caldwell,M,41,24:22:00
+6/3/2015,5K,John,Cheadle,M,26,19:16
+6/3/2015,5K,Jim,Clabuesch,M,50,20:55
+6/3/2015,5K,Rietta,Couper,F,56,23:06
+6/3/2015,5K,David,Couper,M,60,20:37
+6/3/2015,5K,Ed,Davis,M,70,26:31:00
+6/3/2015,5K,Andrew,Ehlert,M,25,19:42
+6/3/2015,5K,Douglas,Gimlin,M,50,20:32
+6/3/2015,5K,Bryan,Hassin,M,36,20:53
+6/3/2015,5K,Barbara,Hindenach,F,64,30:46:00
+6/3/2015,5K,Tom,Kirby,M,62,24:53:00
+6/3/2015,5K,Kevin,McCabe,M,34,21:31
+6/3/2015,5K,Rob,McCauley,M,43,28:19:00
+6/3/2015,5K,Julie,Messina,F,37,28:27:00
+6/3/2015,5K,William,Schmitz,M,43,27:48:00
+6/3/2015,5K,Martin,Warters,M,36,22:35
+6/3/2015,5K,Chris,Whitehurst,M,41,25:20:00
+6/3/2015,5K,Richard,Wolfe,M,76,49:01:00
+6/3/2015,5K,Brandy,Burns,F,39,28:38:00
+6/3/2015,5K,Chris,Gould,M,71,25:10:00
+6/3/2015,5K,Vance,Johnson,M,13,19:02
+6/3/2015,5K,John,Herlin,M,32,21:02
+6/3/2015,5K,Ronnie,Weed,M,40,19:51

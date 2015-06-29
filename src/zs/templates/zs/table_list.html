@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% load staticfiles %}
+{% load crispy_forms_tags %}
+
+{% block title %}{{ block.super }}About{% endblock %}
+
+{% block navbar-left %}
+  {% include "_navbar.html" with active_link="about" %}
+{% endblock %}
+
+<!-- Benefits of the Django application -->
+{% block container %}
+<div id="sec1" class="text-page">
+      <div class="container"> <div class="col-lg-4">
+{% if tablelist %}
+    <ul>
+    {% for table in tablelist %}
+        <li><a href="{{request.path}}{{ table }}/">{{ table }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No tables are available.</p>
+{% endif %}
+    </div>    </div> </div>
+{% endblock container %}
