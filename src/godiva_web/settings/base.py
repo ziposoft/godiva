@@ -5,7 +5,7 @@ import logging.config
 
 LOGFILE_BASE = 'wsgi'
 
-print os.environ
+#print os.environ
 
 if 'django_mode' in os.environ:
     #if 'mod_wsgi.process_group' in os.environ:
