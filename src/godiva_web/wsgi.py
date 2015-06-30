@@ -1,8 +1,9 @@
 import os
 
+from django.core.wsgi import get_wsgi_application
+
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "godiva_web.settings.production")
 os.environ.setdefault("django_mode","apache")
-from django.core.wsgi import get_wsgi_application
 application = get_wsgi_application()
 
 # Wrap werkzeug debugger if DEBUG is on
@@ -20,3 +21,4 @@ if settings.DEBUG:
         application = DebuggedApplication(application, evalex=True)
     except ImportError:
         pass
+
