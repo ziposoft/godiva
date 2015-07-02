@@ -75,9 +75,10 @@ def runners(request):
     return render(request, 'track/table.html', {'table': table})
 
 def runner(request,slug):
+    therunner=track_models.Runner.objects.get(id=slug)
     table = TableResults(track_models.Result.objects.filter(runner__id=slug),exclude={'runner','age','age_at_time'})
     RequestConfig(request).configure(table)
-    return render(request, 'track/table.html', {'table': table})
+    return render(request, 'track/runner.html', {'table': table,'theruner': therunner})
 
 
 

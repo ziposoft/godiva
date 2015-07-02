@@ -16,6 +16,20 @@ from profiles.models import  Profile
 import inspect
 import logging
 logger = logging.getLogger("project")
+import django_tables2 as tables
+from django_tables2   import RequestConfig
+
+def createDtTable(model_cl):
+    if not (inspect.isclass(model_cl)):
+        msg = "not found"
+    else:
+        fields=model_cl._meta.fields
+        members=dict(
+           Meta=type('Meta',(),dict(model=model_cl,attrs = {"class": "paleblue"})))
+        dt_cl= type('zdt'+type(model_cl).__name__,(tables.Table,),members)
+        return dt_cl
+
+
 
 
 class classLinks:
@@ -71,6 +85,12 @@ class GenView:
         })
         return HttpResponse(template.render(context))
 
+    def dt_view(self,request,table_name):
+        table_cl = self.get_table(table_name)
+        dt_cl=createDtTable(table_cl)
+        table = dt_cl(table_cl.objects.all())
+        RequestConfig(request).configure(table)
+        return render(request, 'track/table.html', {'table': table})
 
     def table_generic(self,request, table_name):
         table_cl = self.get_table(table_name)

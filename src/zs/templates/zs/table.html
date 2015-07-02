@@ -6,52 +6,52 @@
 {% block title %}{{ block.super }}About{% endblock %}
 
 {% block navbar-left %}
-{% include "_navbar.html" with active_link="about" %}
+    {% include "_navbar.html" with active_link="about" %}
 {% endblock %}
 
 <!-- Benefits of the Django application -->
 {% block container %}
-<div id="sec1" class="text-page">
-    <div class="container">
-        <div class="">
-            <h1>{{ msg }}</h1>
+    <div id="sec1" class="text-page">
+        <div class="container">
+            <div class="">
+                <h1>{{ msg }}</h1>
 
-            <h1>{{ table_name }}</h1>
+                <h1>{{ table_name }}</h1>
 
 
-            <table border="2px solid " cellpadding="3" cellspacing="3" color="Grey" rules="all"
-                   style="text-align: left;">
-                <tbody border="2px solid ">
+                <table border="2px solid " cellpadding="3" cellspacing="3" color="Grey" rules="all"
+                       style="text-align: left;">
+                    <tbody border="2px solid ">
 
-                <tr>
-                    {% for field in fields %}
-                    <th>{{ field.name }}</th>
-                    {% endfor %}
-                    {% for link in links %}
-                    <th>{{ link }}</th>
-                    {% endfor %}
-                </tr>
-                {% for obj in table %}
-                <tr>
+                    <tr>
+                        {% for field in fields %}
+                            <th>{{ field.name }}</th>
+                        {% endfor %}
+                        {% for link in links %}
+                            <th>{{ link }}</th>
+                        {% endfor %}
+                    </tr>
+                    {% for obj in table %}
+                        <tr>
 
-                    {% for cell in obj.row %}
-                    <td>{{ cell }}</td>
-                    {% endfor %}
-                    {% for subtable in obj.links %}
-                    <td>
-                        <ul>
-                            {% for link in subtable.list %}
-
-                            <li>{{ link }}</li>
+                            {% for cell in obj.row %}
+                                <td>{{ cell }}</td>
                             {% endfor %}
-                        </ul>
-                    </td>
+                            {% for subtable in obj.links %}
+                                <td>
+                                    <ul>
+                                        {% for link in subtable.list %}
+
+                                            <li>{{ link }}</li>
+                                        {% endfor %}
+                                    </ul>
+                                </td>
+                            {% endfor %}
+                        </tr>
                     {% endfor %}
-                </tr>
-                {% endfor %}
-                </tbody>
-            </table>
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
-</div>
 {% endblock container %}

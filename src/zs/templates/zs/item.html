@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% load render_table from django_tables2 %}
+
+{% block container %}
+    <div id="sec1" class="text-page">
+        <div class="container">
+            <h1>Name: {{ theruner.name_first }} {{ theruner.name_last }}</h1>
+
+
+        </div>
+    </div>
+{% endblock container %}
