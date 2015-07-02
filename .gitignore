@@ -58,3 +58,5 @@ Desktop.ini
 # Project settings
 env/
 data/members.csv
+/.idea/godiva.iml
+/.idea/misc.xml
