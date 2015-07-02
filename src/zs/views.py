@@ -84,19 +84,53 @@ class GenView:
             'tablelist': tablelist,
         })
         return HttpResponse(template.render(context))
+    def item_view(self,request,table_name,item):
+        table_cl = None
+        obj = None
+        table = []
+        fields = []
+        links=[]
+        values = dict()
+        msg = ""
+
+        try:
+            table_cl = self.get_table(table_name)
+            obj=table_cl.objects.get(id=item)
+
+            fields=table_cl._meta.fields
+            for f in fields:
+                data=getattr(obj,f.name)
+                values[f.name]=data
+        except Exception as e:
+            msg =  e.message + ":" +  type(e)
+            pass
+
+        template = loader.get_template('zs/item.html')
+        context = RequestContext(request, {
+            'msg': msg,
+            'fields': fields,
+            'links' : links,
+            'obj': obj,
+            'values':values
+
+
+        })
+        return HttpResponse(template.render(context))
+
 
     def dt_view(self,request,table_name):
         table_cl = self.get_table(table_name)
         dt_cl=createDtTable(table_cl)
         table = dt_cl(table_cl.objects.all())
         RequestConfig(request).configure(table)
-        return render(request, 'track/table.html', {'table': table})
+        return render(request, 'zs/dt_table.html', {'table': table})
 
     def table_generic(self,request, table_name):
         table_cl = self.get_table(table_name)
         table = []
         fields = []
         links=[]
+
 
         if (inspect.isclass(table_cl)):
             msg = ""

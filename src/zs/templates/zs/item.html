@@ -4,7 +4,9 @@
 {% block container %}
     <div id="sec1" class="text-page">
         <div class="container">
-            <h1>Name: {{ theruner.name_first }} {{ theruner.name_last }}</h1>
+        {% for k, v in values %}
+           {{ k }}   {{ v }}
+        {% endfor %}
 
 
         </div>
